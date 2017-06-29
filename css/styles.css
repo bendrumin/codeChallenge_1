@@ -1,0 +1,19 @@
+h1 {
+
+}
+#container p {
+color: black;
+font-size: 1.6em;
+}
+#container div {
+  height: 200px;
+  width: 50%;
+  border: 1px solid black;
+}
+.buttonContainer button {
+  position: relative;
+  margin-bottom: 20px;
+}
+.buttonContainer {
+  background-color: red;
+}
